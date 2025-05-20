@@ -5,4 +5,4 @@ st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 st.image("20250320_174629.jpg")
-#iniwm
+st.write("apa aja")
